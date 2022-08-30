@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tarun Gupta</h1>
 <h3 align="center">A passionate Full Stack Blockchain developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarun-k-gupta" alt="tarun-k-gupta" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Web3 projects**
 
-- 💬 Ask me about **Web3**
+- 💬 Ask me about **anything related to Web3**
 
 - 📫 How to reach me **tarungupta_er@rediffmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0xtarun.eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xtarun.eth" height="30" width="40" /></a>
+<a href="https://twitter.com/tarun_gupta13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarun_gupta13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tarun gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun gupta" height="30" width="40" /></a>
 </p>
 
@@ -22,5 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-k-gupta&show_icons=true&theme=dark&locale=en" alt="tarun-k-gupta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-k-gupta&" alt="tarun-k-gupta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-k-gupta&theme=dark" alt="tarun-k-gupta" /></p>
 
