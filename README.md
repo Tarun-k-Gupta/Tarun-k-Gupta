@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Tarun+Gupta's+Github+Profile;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Tarun's+Github+Profile!;)](https://git.io/typing-svg)
 <h3 align="center">A passionate Full Stack Blockchain developer from India</h3>
 
 - 🌱 I’m currently learning **React**
