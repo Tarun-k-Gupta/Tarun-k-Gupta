@@ -1,11 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Tarun's+Github+Profile!;CSE+Student+at+IIITB;Passionate+about+Web3+tech!;)](https://git.io/typing-svg)
-<h3 align="center">A passionate Full Stack Blockchain developer from India</h3>
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Web3 projects**
 
-- 💬 Ask me about **anything related to Web3**
+- 💬 Ask me about **stuff related to Web3**
 
 - 📫 How to reach me **tarungupta_er@rediffmail.com**
 
